@@ -1,0 +1,14 @@
+Technical Part
+--------------
+This all starts because we want a "GOOD CODE". Wait what is a "good code"?
+- Readability
+- Scalability 
+    - Time Complexity 
+    - Space Complexity
+A good engineer must know to strike a balance between all the three parameters. And he/she decides it
+based on the company(startup), requirements and all other factors that may play a role. 
+
+What interviewer wants in a technical interview? Refer to the lecture#49.
+
+
+
